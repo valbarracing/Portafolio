@@ -1,2 +1,2 @@
 # Portafolio
-este es mi cv
+este es mi cv https://valbarracing.github.io/Portafolio/
